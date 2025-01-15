@@ -36,8 +36,8 @@ This project was developed to showcase skills in data visualization and sales an
 
 ## Contact
 For questions or feedback, feel free to reach out:
-- *Name:* [Leboang]
-- *Email:* [Mangoedi]
+- *Name:* [Leboang Mangoedi]
+- *Email:* [Mangoedileboang@gmail.com]
 - *LinkedIn:* [www.linkedin.com/in/leboang-mangoedi-339501246]
 
 ---
